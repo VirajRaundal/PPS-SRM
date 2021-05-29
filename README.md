@@ -1,4 +1,3 @@
-# Abrevation 😏
 <h1>Why did I do this?</h1>
 So that you won't have to reinvent the wheel lol. 
 
